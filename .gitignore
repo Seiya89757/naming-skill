@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Skill-creator artifacts (not needed in repo)
+*.skill
+chinese-baby-naming-workspace/
